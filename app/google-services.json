@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1020916915711",
+    "firebase_url": "https://deeapp-23bd3.firebaseio.com",
+    "project_id": "deeapp-23bd3",
+    "storage_bucket": "deeapp-23bd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020916915711:android:7147f0d8e12942a9a11bca",
+        "android_client_info": {
+          "package_name": "com.example.deeblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020916915711-5t6hk3pkgcbfk0gdpa04854tvap5vsd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYaXo9L5P5h0BqYuAoSgZfGFryk5rzV5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020916915711-5t6hk3pkgcbfk0gdpa04854tvap5vsd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
